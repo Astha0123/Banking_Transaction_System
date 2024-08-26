@@ -9,7 +9,7 @@ import pandas as pd
 mydb=mysql.connector.connect(
   host ="localhost",
   user ="root",
-  passwd ="astha123#&",
+  passwd ="password",
   database = "Bank"
 );       # name of database created
 mycursor=mydb.cursor()                                   # Return new Cursor Object using the connection
