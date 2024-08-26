@@ -16,4 +16,7 @@ A simple banking transaction system implemented in Python using MySQL for databa
 - **Programming Language:** Python
 - **Database:** MySQL
 
+- ## Schema
 
+
+![BankingTransactionSystem](https://github.com/user-attachments/assets/6cd89d28-854c-4855-a298-e6cbc907eef9)
